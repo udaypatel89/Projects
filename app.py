@@ -19,7 +19,7 @@ if __name__ == '__main__':
     # Head
     st.set_page_config(page_title='Axe Analytics')
     st.title('Axe Analytics')
-    st.subheader('Analyzing medical images using AI (Gemini).')
+    st.subheader('Analyzing medical images using AI.')
 
     # Body
     col1, col2 = st.columns([1, 5])
